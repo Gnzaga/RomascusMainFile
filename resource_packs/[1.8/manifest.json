@@ -1,0 +1,18 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Shows chunk boundaries, the cross-platform version",
+    "name": "[1.8.0] Chunk Visualizer (cross-platform)",
+    "uuid": "6afc3dd0-7a63-439e-9e6a-60b3c1131c5d",
+    "version": [ 0, 0, 1 ],
+    "min_engine_version": [ 1, 2, 6 ]
+  },
+  "modules": [
+    {
+      "description": "Shows chunk boundaries, the cross-platform version",
+      "type": "resources",
+      "uuid": "87fac0c9-ac0b-4d3b-ab02-cc2ca2415cca",
+      "version": [ 0, 0, 1 ]
+    }
+  ]
+}
